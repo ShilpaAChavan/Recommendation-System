@@ -1,0 +1,7 @@
+Problem statement.
+
+Recommend a best book based on the ratings.
+
+Referred Links:
+https://medium.com/@salliedailey/book-recommendation-system-part-i-f0751a85cd9
+https://www.datacamp.com/community/tutorials/recommender-systems-python
